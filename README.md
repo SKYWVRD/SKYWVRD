@@ -1,7 +1,6 @@
 - :man: Hi, I’m Sean Boonzaier
 - :dollar: Software Engineer at a Energy Utility and Sustainability Company building cloud applications and pipelines.
-- :computer: Technologies includes Python, Javascrip, React, GCP and more.
-- :books: Currently also in my final year of a CompSci degree.
+- :computer: Technologies includes Python, Typescript, React, GCP and Firebase.
 - 📫 Can reach me via email at boonzaiersa@gmail.com or on linked in at https://www.linkedin.com/in/sean-boonzaier
 
 <!---
